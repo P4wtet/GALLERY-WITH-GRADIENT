@@ -4,6 +4,6 @@
 
 - The gallery is valid and semantically written🫠
 
-- LINK TO MY AMAZING GALLERY🔥 [Click](https://p4wtet.github.io/Gallery-with-Gradient/).
+- LINK TO MY AMAZING GALLERY🔥 [Click](https://p4wtet.github.io/GALLERY-WITH-GRADIENT/).
 
 ![Screenshot GALLERY](https://webdesign-master.ru/img/thumbs/@2x/html-css/create-cool-gallery-miami/create-cool-gallery-miami.jpg)
